@@ -6,9 +6,12 @@
 * [pixi.js](./pixi/index.html) (bouncing sprites)
 * three.js (spinning cube)
 
-### WebVR examplea
+### WebVR examples
 * stereo panorama (twgl.js, split screen and sensor API)
-* ARToolkit - cube (marker tracking + throughscreen camera, using webVR camera API)
+* ARToolkit - cube
+  * marker tracking
+  * throughscreen camera
+  * piped through webVR camera API
 
 
 # ⚙ Setup
@@ -25,3 +28,4 @@
 * [ARToolkit](http://artoolkit.org/documentation/doku.php?id=7_Examples:example_simplelite)
 
 # 📱Downloads
+* [glesjs.apk](www/glesz.apk)
