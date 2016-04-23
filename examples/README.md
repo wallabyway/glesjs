@@ -28,6 +28,6 @@
 * [ARToolkit](http://artoolkit.org/documentation/doku.php?id=7_Examples:example_simplelite)
 
 # 📱Downloads
-* APK pre-built [glesz.apk](https://github.com/wallabyway/glesjs/blob/master/examples/www/twglcube.zip?raw=true)
-* example [helloworld.zip](webvr://github.com/wallabyway/glesjs/blob/master/examples/www/helloworld.zip?raw=true)
-* example [twglcube.zip](webvr://github.com/wallabyway/glesjs/blob/master/examples/www/twglcube.zip?raw=true)
+* APK pre-built [glesz.apk](https://github.com/wallabyway/glesjs/blob/master/examples/www/glesz.apk?raw=true)
+* example [helloworld.zip](webvr://s3-us-west-2.amazonaws.com/pano-raas-au/js/helloworld.zip)
+* example [twglcube.zip](webvr://s3-us-west-2.amazonaws.com/pano-raas-au/js/twglcube.zip)
