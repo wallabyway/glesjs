@@ -1,9 +1,9 @@
 # 🛠 GLES.js examples
 ![](www/helloworld.gif)
 ### Basic webGL examples
-* [helloworld](./helloworld/index.html) (shaderToy example)
+* [helloworld](./helloworld) (shaderToy example)
 * twgl.js (spinning textured cube)
-* [pixi.js](./pixi/index.html) (bouncing sprites)
+* [pixi.js](./pixi) (bouncing sprites)
 * three.js (spinning cube)
 
 ### WebVR examples
@@ -28,4 +28,6 @@
 * [ARToolkit](http://artoolkit.org/documentation/doku.php?id=7_Examples:example_simplelite)
 
 # 📱Downloads
-* [glesjs.apk](www/glesz.apk)
+* APK pre-built [glesz.apk](blob/master/examples/www/glesz.apk?raw=true)
+* example [helloworld.zip](webvr://examples/www/helloworld.zip?raw=true)
+* example [twglcube.zip](webvr://examples/www/twglcube.zip?raw=true)
